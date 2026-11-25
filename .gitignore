@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local virtualenv committed previously
+jetson/R2C_Juara/
+
+# Build artifacts
+*.o
+*.elf
+*.bin
+build/
